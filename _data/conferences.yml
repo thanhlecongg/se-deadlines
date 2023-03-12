@@ -203,6 +203,30 @@
   sub: RESEARCH
   note:
 
+- title: APR@ICSE
+  year: 2023
+  id: apr23  # title as lower case + last two digits of year
+  full_name: International Workshop on Automated Program Repair # full conference name
+  link: http://program-repair.org/workshop-2023/
+  deadline: 2022-01-20 23:59
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: May, 16, 2023
+  sub: WS
+  note:
+
+- title: InteNSE@ICSE
+  year: 2023
+  id: intense23  # title as lower case + last two digits of year
+  full_name: International Workshop on Interpretability and Robustness in Neural Software Engineering # full conference name
+  link: https://intense23.github.io/
+  deadline: 2022-02-10 23:59
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: May, 16, 2023
+  sub: WS
+  note:
+
 - title: ECOOP-1
   year: 2023
   id: ecoop231  # title as lower case + last two digits of year
@@ -263,7 +287,7 @@
   sub: RESEARCH
   note:
 
-- title: ICSE-NIER
+- title: NIER@ICSE
   year: 2024
   id: icsenier24  # title as lower case + last two digits of year
   full_name: IEEE/ACM International Conference on Software Engineering - New Idea and Emerging Results # full conference name
@@ -276,7 +300,7 @@
   note:
 
 
-- title: ICSE-Demo
+- title: Demo@ICSE
   year: 2024
   id: icsedemo24  # title as lower case + last two digits of year
   full_name: IEEE/ACM International Conference on Software Engineering - New Idea and Emerging Results # full conference name
@@ -288,7 +312,7 @@
   sub: TOOL
   note:
 
-- title: ESEC/FSE-Demo
+- title: Demo@ESEC/FSE
   year: 2023
   id: fsedemo23  # title as lower case + last two digits of year
   full_name: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering # full conference name
@@ -298,4 +322,16 @@
   place: California, USA
   date: November, 11-17, 2024
   sub: TOOL
+  note:
+
+- title: IRV@ESEC/FSE
+  year: 2023
+  id: fseirv23  # title as lower case + last two digits of year
+  full_name: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering # full conference name
+  link: https://2023.esec-fse.org/track/fse-2023-ideas--visions-and-reflections
+  deadline: 2023-05-03 23:59
+  timezone: UTC-12
+  place: California, USA
+  date: November, 11-17, 2024
+  sub: NIER
   note:

@@ -5,5 +5,7 @@
   sub: NIER
 - name:  Tool Demos/Data Showcase Track
   sub: TOOL
+- name:  Workshops
+  sub: WS
 
 
