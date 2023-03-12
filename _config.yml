@@ -2,10 +2,10 @@ title: SE Conference Deadlines
 description: Countdowns to top SE conference deadlines. This website is currently built to support my research so the list may be biased by my research topics.
 author: Thanh Le-Cong
 
-domain: "https://thanhlecongg.github.io"
+domain: "https://thanhlecongg.github.io/"
 baseurl: "/se-deadlines"
 
-# twitter_hashtag: machinelearning
+twitter_hashtag: ThanhLeCong2705
 github_username: thanhlecongg
 github_repo: se-deadlines
 
