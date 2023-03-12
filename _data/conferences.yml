@@ -272,7 +272,7 @@
   timezone: UTC-12
   place: Lisbon, Portugal
   date: April, 12-21, 2024
-  sub: NEIR
+  sub: NIER
   note:
 
 
@@ -285,7 +285,7 @@
   timezone: UTC-12
   place: Lisbon, Portugal
   date: April, 12-21, 2024
-  sub: NEIR
+  sub: TOOL
   note:
 
 - title: ESEC/FSE-Demo
@@ -297,5 +297,5 @@
   timezone: UTC-12
   place: California, USA
   date: November, 11-17, 2024
-  sub: NEIR
+  sub: TOOL
   note:
