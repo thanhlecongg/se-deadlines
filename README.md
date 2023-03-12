@@ -1,4 +1,4 @@
-## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+## SE Deadlines [![Build Status](https://travis-ci.com/thanhlecongg/se-deadlines.svg?branch=gh-pages)](https://travis-ci.com/thanhlecongg/se-deadlines)
 
 Countdown timers to keep track of a bunch of SE/PL conference deadlines.
 
